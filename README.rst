@@ -11,6 +11,9 @@ Media for TYPO3 CMS |badge_travis| |badge_scrutinizer| |badge_coverage|
 .. |badge_coverage| image:: https://scrutinizer-ci.com/g/fabarea/media/badges/coverage.png?b=master
    :target: https://scrutinizer-ci.com/g/fabarea/media
 
+Fork to support TYPO3 10 LTS
+
+
 Media is a tool for managing Assets for TYPO3 CMS 6.2 and is logically built on the top of FAL.
 The File Abstraction Layer API was introduced in TYPO3 6.0 and allows to handle files in centralised way across the CMS.
 Basically, Media provides the following set of features:

@@ -1,5 +1,5 @@
 {
-	"name": "fab/media",
+	"name": "web-vision/media",
 	"type": "typo3-cms-extension",
 	"description": "Media management system for TYPO3 CMS.",
 	"homepage": "https://github.com/fabarea/media",
